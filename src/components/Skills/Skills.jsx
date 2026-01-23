@@ -39,6 +39,11 @@ const Skills = () => {
             icon: 'fa-plug',
             title: 'Integrations & Tools',
             skills: ['SMTP', 'Payment IPN', 'Stripe', 'API Marketplaces', 'Postman', 'Git/GitHub', 'Advanced Excel']
+        },
+        {
+            icon: 'fa-robot',
+            title: 'AI Coding Tools',
+            skills: ['Claude', 'Cursor', 'Antigravity', 'GitHub Copilot', 'AI Pair Programming', 'Agentic Coding']
         }
     ]
 
