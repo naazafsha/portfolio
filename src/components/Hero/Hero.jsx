@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import afshaImg from '../../assets/afsha.jpg'
 
 const Hero = () => {
     const [typedText, setTypedText] = useState('')
@@ -96,7 +97,7 @@ const Hero = () => {
                     <div className="image-wrapper">
                         <div className="image-glow"></div>
                         <img
-                            src="https://avatars.githubusercontent.com/u/118339200?v=4"
+                            src={afshaImg}
                             alt="Afsha Naaz Ansari"
                             className="profile-img"
                         />
