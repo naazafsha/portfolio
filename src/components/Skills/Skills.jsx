@@ -3,7 +3,7 @@ const Skills = () => {
         {
             icon: 'fa-code',
             title: 'Languages & Frameworks',
-            skills: ['PHP', 'JavaScript', 'Python', 'Java', 'TypeScript', 'CodeIgniter 3/4', 'MERN Stack', 'React', 'Angular', 'Node.js', 'HTML/CSS', 'Bootstrap']
+            skills: ['PHP', 'Laravel', 'JavaScript', 'Python', 'Java', 'TypeScript', 'CodeIgniter 3/4', 'MERN Stack', 'React', 'Angular', 'Node.js', 'HTML/CSS', 'Bootstrap']
         },
         {
             icon: 'fa-database',

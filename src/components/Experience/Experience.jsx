@@ -6,7 +6,7 @@ const Experience = () => {
             period: 'May 2023 – Jan 2026',
             details: [
                 'Full-time from May 2025 to Jan 2026, Part-time from May 2023 to May 2025',
-                'Developed and maintained scalable PHP-based SaaS applications with high performance and reliability',
+                'Developed and maintained scalable PHP (Laravel, CodeIgniter) SaaS applications with high performance and reliability',
                 'Integrated 30+ third-party and AI APIs including text, image, audio, video, and music generation APIs',
                 'Designed AI-driven workflows handling asynchronous processing, retries, error handling, and usage-based access control',
                 'Built RESTful APIs and collaborated with frontend and product teams to deliver user-focused features',
