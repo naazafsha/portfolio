@@ -3,9 +3,9 @@ const Experience = () => {
         {
             title: 'Software Engineer',
             company: 'Logicbeam Softwares',
-            period: 'May 2023 – Jan 2026',
+            period: 'May 2023 – Present',
             details: [
-                'Full-time from May 2025 to Jan 2026, Part-time from May 2023 to May 2025',
+                'Full-time from May 2025 to Present, Part-time from May 2023 to May 2025',
                 'Developed and maintained scalable PHP (Laravel, CodeIgniter) SaaS applications with high performance and reliability',
                 'Integrated 30+ third-party and AI APIs including text, image, audio, video, and music generation APIs',
                 'Designed AI-driven workflows handling asynchronous processing, retries, error handling, and usage-based access control',
