@@ -6,10 +6,10 @@ const Experience = () => {
             period: 'May 2023 – Present',
             details: [
                 'Full-time from May 2025 to Present, Part-time from May 2023 to May 2025',
-                'Developed and maintained scalable PHP (Laravel, CodeIgniter) SaaS applications with high performance and reliability',
-                'Integrated 30+ third-party and AI APIs including text, image, audio, video, and music generation APIs',
-                'Designed AI-driven workflows handling asynchronous processing, retries, error handling, and usage-based access control',
-                'Built RESTful APIs and collaborated with frontend and product teams to deliver user-focused features',
+                'Architected and maintained multi-tenant SaaS platforms using PHP (Laravel, CodeIgniter) with scalable SaaS architecture and RBAC-based access control',
+                'Integrated 30+ third-party APIs including OpenAI API and other LLM integration services for Generative AI features like text, image, audio, video, and music generation',
+                'Engineered prompt engineering workflows and designed async job queues for background processing with retries, error handling, and usage-based throttling',
+                'Built and documented RESTful API design patterns, managing file storage with AWS S3 and collaborating with frontend teams to ship user-focused features',
                 'Conducted code reviews and optimized application performance and security'
             ]
         },
