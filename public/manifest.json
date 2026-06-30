@@ -1,0 +1,9 @@
+{
+  "name": "Afsha Naaz Ansari | Portfolio",
+  "short_name": "Afsha Portfolio",
+  "description": "Software Engineer specializing in AI-powered SaaS platforms and full-stack development",
+  "start_url": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#030014",
+  "theme_color": "#8b5cf6"
+}
